@@ -1,0 +1,6 @@
+framework module YYBLIB {
+  umbrella header "YYBLIB-umbrella.h"
+
+  export *
+  module * { export * }
+}
